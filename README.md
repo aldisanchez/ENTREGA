@@ -1,2 +1,2 @@
-# ENTREGA
-técnicas y herramientas 1
+# ENTREGAS
+Técnicas y herramientas 1
